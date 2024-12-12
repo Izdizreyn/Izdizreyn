@@ -22,7 +22,7 @@
 - ⚡ Fun fact **I love JOJO no kimyou na bouken**
 
 <div align="center">
-    <img alt="qr" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzEwNWFmbmV5dDJ2NmVyN29pOHZlMWhnMjF4NDJiYWxseDk5MmZqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LWocZxVYEzl8Y3LWIZ/giphy.gif" style="max-width: 100px; width: 50%;">
+    <img alt="qr" src="https://media.giphy.com/media/16dIgjWQjikY8/giphy.gif?cid=790b7611cdf0mt6a9sratfwlwva0qsf8uw6f07mxyvafpkno&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="max-width: 100px; width: 50%;">
 </div>
 
 <h3 align="center">Connect with me:</h3>
