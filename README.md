@@ -19,7 +19,6 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1bp8Jb9bBhhX_4QT0D5QBgzydShbD_cQQ/edit?usp=drive_link&ouid=117304612241802010286&rtpof=true&sd=true](https://docs.google.com/document/d/1bp8Jb9bBhhX_4QT0D5QBgzydShbD_cQQ/edit?usp=drive_link&ouid=117304612241802010286&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I love JOJO no kimyou na bouken**
 
 <div align="center">
     <img alt="qr" src="https://media.giphy.com/media/16dIgjWQjikY8/giphy.gif?cid=790b7611cdf0mt6a9sratfwlwva0qsf8uw6f07mxyvafpkno&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="max-width: 100px; width: 50%;">
