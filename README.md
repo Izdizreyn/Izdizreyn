@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **anything but for me, I preferred learning C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Izdizreyn](https://github.com/Izdizreyn)
+- 👨‍💻 All of my projects are available at [https://github.com/Izdizreyn](https://github.com/Izdizreyn?tab=repositories)
 
 - 📫 How to reach me **reignerjhontorres1@gmail.com**
 
