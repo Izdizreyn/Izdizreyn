@@ -42,6 +42,7 @@
         <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/izdizreyn_" />
     </a>
 </p>
+
 <br><br>
 
 <div align="center">
