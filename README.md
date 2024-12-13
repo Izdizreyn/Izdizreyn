@@ -1,7 +1,7 @@
 [![mario.gif](https://i.postimg.cc/YqCtt7Jk/mario.gif)](https://www.facebook.com/RTs804)
 
 <h1 align="center">Hello World! I am <a href="https://www.instagram.com/izdizreyn_/">Izdizreyn</a></h1>
-<h3 align="center">erm, nothing special here...</h3>
+<h3 align="center">What's up?</h3>
 
 <div align="center">
     <img alt="jojo" width="330" height="180" src="https://i.pinimg.com/originals/2d/92/3e/2d923e0f274c0d3631adaca210248d80.gif">
@@ -9,13 +9,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=izdizreyn&label=Profile%20views&color=0e75b6&style=flat" alt="izdizreyn" /> </p>
 
+- 📫 How to reach me **reignerjhontorres1@gmail.com** or **https://www.facebook.com/RTs804/**
+
 - 🔭 I am a student of [South East Asian Institute of Technology](http://www.seait-edu.ph/index.php)
 
-- 🌱 I’m currently learning **anything but for me, I preferred learning C++**
+- 🌱 I am open to learning new topics, **with a particular preference for C++.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Izdizreyn](https://github.com/Izdizreyn?tab=repositories)
-
-- 📫 How to reach me **reignerjhontorres1@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1bp8Jb9bBhhX_4QT0D5QBgzydShbD_cQQ/edit?usp=drive_link&ouid=117304612241802010286&rtpof=true&sd=true](https://docs.google.com/document/d/1bp8Jb9bBhhX_4QT0D5QBgzydShbD_cQQ/edit?usp=drive_link&ouid=117304612241802010286&rtpof=true&sd=true)
 
