@@ -7,7 +7,12 @@
     <img alt="jojo" width="330" height="180" src="https://i.pinimg.com/originals/2d/92/3e/2d923e0f274c0d3631adaca210248d80.gif">
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=izdizreyn&label=Profile%20views&color=0e75b6&style=flat" alt="izdizreyn" /> </p>
+<p align="center">
+  <a href="https://visitcount.itsvg.in/api?id=Izdizreyn&label=Profile%20Views&color=11&icon=6&pretty=true">
+    <img src="https://visitcount.itsvg.in/api?id=Izdizreyn&label=Profile%20Views&color=11&icon=6&pretty=true" alt="Profile Views">
+  </a>
+</p>
+
 
 - 📫 How to reach me: 
 [**Gmail**](mailto:reignerjhontorres1@gmail.com) , 
