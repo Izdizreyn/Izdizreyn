@@ -60,12 +60,6 @@
 </p>
 
 ---
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=izdizreyn&show_icons=true&theme=radical&locale=en" alt="GitHub Stats">
-</div>
-
----
 ### Generate my QR code:
 <div align="center">
     <a href="https://i.postimg.cc/nVs1F7wL/fb.png" target="_blank" rel="noopener noreferrer">
