@@ -2,21 +2,21 @@
     <img alt="Mario" width="100%" src="https://i.postimg.cc/YqCtt7Jk/mario.gif">
 </div>
 
-<h1 align="center">Hello World! 👋 I am <a href="https://www.instagram.com/izdizreyn_/" target="_blank">Izdizreyn</a></h1>
-<h3 align="center">What's up? 🚀</h3>
+<h1 align="center">Hello World! I am <a href="https://www.instagram.com/izdizreyn_/" target="_blank">Izdizreyn</a></h1>
+<h3 align="center">What's up?</h3>
 
 ---
 
-### 📫 How to reach me:
+### How to reach me:
 [**Gmail**](mailto:reignerjhontorres1@gmail.com) | [**Facebook**](https://www.facebook.com/RTs804/)
 
 ---
 
-### 🧑‍🎓 About Me:
-- 🔭 I am a student at [South East Asian Institute of Technology](http://www.seait-edu.ph/index.php).
-- 🌱 I am open to learning new topics, **with a strong preference for C++**.
-- 👨‍💻 All of my projects are available at [**My Repositories**](https://github.com/Izdizreyn?tab=repositories).
-- 📄 Know about my experiences: [**My Resume**](https://docs.google.com/document/d/1bp8Jb9bBhhX_4QT0D5QBgzydShbD_cQQ/edit?usp=drive_link&ouid=117304612241802010286&rtpof=true&sd=true)
+###  About Me:
+- I am a student at [South East Asian Institute of Technology](http://www.seait-edu.ph/index.php).
+- I am open to learning new topics, **with a strong preference for C++**.
+- All of my projects are available at [**My Repositories**](https://github.com/Izdizreyn?tab=repositories).
+- Know about my experiences: [**My Resume**](https://docs.google.com/document/d/1bp8Jb9bBhhX_4QT0D5QBgzydShbD_cQQ/edit?usp=drive_link&ouid=117304612241802010286&rtpof=true&sd=true)
 
 ---
 
@@ -26,7 +26,7 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+### Languages and Tools:
 <p align="center">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
@@ -44,7 +44,7 @@
 
 ---
 
-### 🤝 Connect with Me:
+### Connect with Me:
 <p align="center">
     <a href="https://www.facebook.com/RTs804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
     <a href="https://www.instagram.com/izdizreyn_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
@@ -52,7 +52,7 @@
 
 ---
 
-### ☕ Support Me:
+### Support Me:
 <p align="center">
     <a href="https://ko-fi.com/izdizreyn_" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support Me on Ko-Fi" />
@@ -66,7 +66,7 @@
 </div>
 
 ---
-### 🤳Generate my QR code:
+### Generate my QR code:
 <div align="center">
     <a href="https://i.postimg.cc/nVs1F7wL/fb.png" target="_blank" rel="noopener noreferrer">
         <img src="https://media.giphy.com/media/16dIgjWQjikY8/giphy.gif?cid=790b7611cdf0mt6a9sratfwlwva0qsf8uw6f07mxyvafpkno&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150" alt="QR Code">
