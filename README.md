@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi there! I'm <a href="https://www.instagram.com/izdizreyn_/" target="_blank">Rein</a></h1>
-<h3 align="center">### 💻 Full-Stack Web Developer in Progress</h3>
+<h3 align="center">💻 Full-Stack Web Developer in Progress</h3>
 
 ---
 
@@ -11,15 +11,6 @@
 [**Gmail**](mailto:reignerjhontorres1@gmail.com) | [**Facebook**](https://www.facebook.com/RTs804/)
 
 ---
-
-- ## 📊 GitHub Statistics
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Izdizreyn&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izdizreyn&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 
 ###  About Me:
 - I am a student at [South East Asian Institute of Technology](http://www.seait-edu.ph/index.php).
