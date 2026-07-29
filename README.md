@@ -3,22 +3,11 @@
 </div>
 
 <h1 align="center">Hi there! I'm <a href="https://www.instagram.com/izdizreyn_/" target="_blank">Rein</a></h1>
-<h3 align="center">💻 Full-Stack Web Developer in Progress</h3>
+<h3 align="center">Full-Stack Web Developer in Progress</h3>
 
 ---
 
 ### How to reach me:
-[**Gmail**](mailto:reignerjhontorres1@gmail.com) | [**Facebook**](https://www.facebook.com/RTs804/)
-
----
-
-###  About Me:
-- I am a student at [South East Asian Institute of Technology](http://www.seait-edu.ph/index.php).
-- - I am open to learning new technologies, **with a strong preference for web development**.
-- All of my projects are available at [**My Repositories**](https://github.com/Izdizreyn?tab=repositories).
-- Know about my experiences: [**My Resume**](https://docs.google.com/document/d/1bp8Jb9bBhhX_4QT0D5QBgzydShbD_cQQ/edit?usp=drive_link&ouid=117304612241802010286&rtpof=true&sd=true)
-
----
 <p align="center">
 <a href="mailto:reignerjhontorres1@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/RTs804"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
@@ -26,7 +15,17 @@
 </p>
 
 ---
-## 🌱 Currently Learning
+
+###  About Me:
+- I am a student at [South East Asian Institute of Technology](http://www.seait-edu.ph/index.php).
+- I am open to learning new technologies, **with a strong preference for web development**.
+- All of my projects are available at [**My Repositories**](https://github.com/Izdizreyn?tab=repositories).
+- Know about my experiences: [**My Resume**](https://docs.google.com/document/d/1bp8Jb9bBhhX_4QT0D5QBgzydShbD_cQQ/edit?usp=drive_link&ouid=117304612241802010286&rtpof=true&sd=true)
+
+---
+
+---
+## Currently Learning
 
 - React.js
 - Node.js
