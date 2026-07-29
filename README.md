@@ -68,11 +68,3 @@
         <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support Me on Ko-Fi" />
     </a>
 </p>
-
----
-### Generate my QR code (clickable):
-<div align="center">
-    <a href="https://i.postimg.cc/nVs1F7wL/fb.png" target="_blank" rel="noopener noreferrer">
-        <img src="https://media.giphy.com/media/16dIgjWQjikY8/giphy.gif?cid=790b7611cdf0mt6a9sratfwlwva0qsf8uw6f07mxyvafpkno&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150" alt="QR Code">
-    </a>
-</div>
